@@ -8,7 +8,7 @@ world.run_until_complete()
 
 - English is bad
 
-![skills](https://skillicons.dev/icons?i=ae,au,bash,c,cpp,css,docker,flask,git,github,html,js,jquery,linux,md,mysql,nginx,ps,php,pr,py,qt,redis,sqlite,vim,vscode)
+![skills](https://skillicons.dev/icons?i=ae,pr,au,bash,c,cpp,css,docker,flask,git,gitlab,github,html,js,jquery,linux,md,mysql,nginx,ps,php,java,idea,py,qt,redis,sqlite,vim,ts,go,eclipse,k8s,discord,elasticsearch,fastapi,express,ubuntu)
 
 ## Motto
 
